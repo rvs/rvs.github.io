@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/rvs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rvs.github.io
+  * I am rvs (https://keybase.io/rvs) on keybase.
+  * I have a public key with fingerprint E896 6520 DA24 E964 2E11  9A5F 1397 1DA3 9475 BD5D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0111114960afb1d390188091d946386d4a457bba47e57db13f0c0953e9da7a0f8c530a",
+            "fingerprint": "e8966520da24e9642e119a5f13971da39475bd5d",
+            "host": "keybase.io",
+            "key_id": "13971da39475bd5d",
+            "kid": "0111114960afb1d390188091d946386d4a457bba47e57db13f0c0953e9da7a0f8c530a",
+            "uid": "01ea693f18bf934eb45ebb95d5fc1f00",
+            "username": "rvs"
+        },
+        "service": {
+            "hostname": "rvs.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451797247,
+    "expire_in": 157680000,
+    "prev": "96639f90a803e514fa07ecf0b5d61fe315df27624614c67239896737a8f9065c",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGtUr9rFEEUXs+YkIjgYZFCBJn6OGZ2fu1cG0ifwmgjy8zOm7shcXfdnbt4hOtT
+WghpDiwsRESws7Ky1L9DsBdsFJ2JERtLXzPMe9/3zffevKc3rmaD4a3zOy+ezd8/
+vPLxi8kOz15vniLT2CWanKIjuDjg2EIfyiNv0QRhkoIpgbUzxFKFSVFgRaxighbC
+Ms24NEYzCVxaQ6jDFVacgrJaauyKilOs0Qg5X0+haztfhygLhRKC59jqnIESLAdC
+lOaOUCWJ1VQxyY3lNhJnTZ8Y0ZzRPYx9E3PxUl7Y+wf+P/ueX8qBFoo6UhinKAPD
+OBijuOWuIg7jBOyhq/UjiOhu0aPVCMXEwleQZpqa+FscT32Yzc3vXtquCU3VHMfS
+LIS2nyRqWLYJewKmvFQpja9tnGFkLKDrfVOjCYnIKvgkSxgnUsmcyRGCJ63voPQJ
+waUocIz0DiyiZJw7VU5hXeB7FDhhTmMJlcOGW0EcUMKty6XImSCsEjKnKv6VpFIX
+kSV4hVJjj+smiqtoVE+jaO+ntQ7zDtBq52x/IxsOss1rg7Rd2c72zT8rN8+z9fbb
+uxv7w3B/tLV78G3v8+13P34+z9bXv354WS/HD9Z7n/Tu+vvhauvVm18=
+=YLvc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rvs
+
+==================================================================

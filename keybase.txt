@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rvs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rvs.github.io
+  * I am rvs (https://keybase.io/rvs) on keybase.
+  * I have a public key with fingerprint E896 6520 DA24 E964 2E11  9A5F 1397 1DA3 9475 BD5D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0111114960afb1d390188091d946386d4a457bba47e57db13f0c0953e9da7a0f8c530a",
+            "fingerprint": "e8966520da24e9642e119a5f13971da39475bd5d",
+            "host": "keybase.io",
+            "key_id": "13971da39475bd5d",
+            "kid": "0111114960afb1d390188091d946386d4a457bba47e57db13f0c0953e9da7a0f8c530a",
+            "uid": "01ea693f18bf934eb45ebb95d5fc1f00",
+            "username": "rvs"
+        },
+        "revoke": {
+            "sig_ids": [
+                "db1b8786fecf5dce8b52a98b9ad46d68d8e06d2a72690c4ab1fb51ba4942f43f0f"
+            ]
+        },
+        "service": {
+            "hostname": "rvs.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451800685,
+    "expire_in": 157680000,
+    "prev": "1391e01960cad0c0dd21903cebf88ef3271f93b85b91210079ddb27bf7f40b3f",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGtUj1rVEEUfUlUcEU0BAKCFg5itcSZefO5FtqYn2CjYZn75s7uY5P3Nu+9XQ0h
+fdRCC8FSwR8ggkUaGytBewv/gHZiZenMJmJj6TTD3Dn3nDPnzrPzK9ny6tqLK6+f
+z95vLX36Dtndw6Nmn0Dt98hgn0xwseG2x7YbTkpPBoSytIRV1AVgPreUGUMt81ao
+3CgvnJAawAmNUntgeaAFtTJH6512NJhC5tSRPgllNcJm2pRVF2nRWKUkp95xgVYJ
+joxZJwPLrWbe5VZoCV762Diu29QRzYFrcaOsYy0ehgt7/8D/Z9+zEzp0yuaBGQg2
+FwhCIoCVXoaCBUoTsMWmcjsY0c28JQd90uC8nmCKtC1H0W9LBvdI1AKjjQpYBOkL
+NCC5swas80J5ZbxBqjx3mitLC+GABZAsGrWCBxFtBrIVuaPYvCwW5Cmgv8Ibo7Ib
+z+A4p2lTd3VRb8ercddN20Gy1e1NE/YBvoXhCc0QysrHAcWWOTZtWVdkwCK06MrE
+y4RkhlJlZJ/gw2nZ4LBMCKlVLFOahHB+PA6GlMXUC+djoN5zZmleIARjMORcsxgf
+GAmWcUaptt4D1xB0EBTyQNLDdquaDLiORt0ocsbsKtfNGiQHvcPNU9nqcnbm9HL6
+uVnv7MU/3/nxt+zl/Uty96e9c/sC+XV57UaPTj5cW8levbn54+j60uajj09vPVk/
+9+Xzu69Xd34D
+=/sc+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rvs
+
+==================================================================
